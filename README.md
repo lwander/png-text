@@ -4,6 +4,12 @@ A small library for reading and writing arbitrary [PNG tEXt chunks](https://www.
 
 The PNG specification allows for key/value strings to be attached to an image (the strings must be ASCII, and the key cannot exceed 79 characters).
 
+## Installation
+
+```
+npm i @larswander/png-text
+```
+
 ## Usage
 
 ```js

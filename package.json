@@ -1,0 +1,25 @@
+{
+  "name": "@larswander/png-text",
+  "version": "1.0.0",
+  "description": "Read and write PNG tEXT chunks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwander/png-text.git"
+  },
+  "keywords": [
+    "png",
+    "text",
+    "metadata",
+    "chunks"
+  ],
+  "author": "Lars Wander (https://larswander.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lwander/png-text/issues"
+  },
+  "homepage": "https://github.com/lwander/png-text#readme"
+}
